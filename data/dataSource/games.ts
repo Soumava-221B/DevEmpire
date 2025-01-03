@@ -34,6 +34,14 @@ const GamesData: Data[] = [
         label: "",
     },
     {
+        link: "https://boolean.method.ac/",
+        head: "The Boolean Game",
+        image: "/images/games-img/Boolean.png",
+        about: "A game for operations of sets.",
+        alt: "The Boolean Game",
+        label: "",
+    },
+    {
         link: "https://www.supremo.co.uk/designers-eye/",
         head: "It's Centred That",
         image: "/images/games-img/ItsCentredThat.png",
