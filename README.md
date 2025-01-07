@@ -124,11 +124,6 @@ You can find our Code of Conduct [here](/CODE_OF_CONDUCT.md).
 
 This project follows the [MIT License](/LICENSE).
 
-## Discord
-
-[![Discord Shield](https://discordapp.com/api/guilds/890878491766181909/widget.png?style=shield)](https://discord.com/invite/V4W4Z4sTmh)
-
-
 ## 📃 License
 
 This project follows the [MIT License](/LICENSE).
